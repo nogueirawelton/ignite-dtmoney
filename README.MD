@@ -1,5 +1,5 @@
 <h1 align="center">
-  Feedback Widget Api
+  DtMoney
 </h1>
 
 <p align="center">
