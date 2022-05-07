@@ -7,7 +7,7 @@
 
 ## 💻 Projeto
 
-Aplicação desenvolvida com objetivo de prover organização financeira, durante o **[Rocketseat](https://github.com/Rocketseat)** Ignite.
+Aplicação com objetivo de prover organização financeira desenvolvida durante o **[Rocketseat](https://github.com/Rocketseat)** Ignite.
 
 ## ✨ Tecnologias
 
